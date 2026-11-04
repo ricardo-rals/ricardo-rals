@@ -2,7 +2,7 @@
 
 Desenvolvedor backend e de IA em Vitória da Conquista, Bahia. Construo sistemas que recebem dado do mundo real, como nota fiscal, prontuário e registro de catraca, e devolvem informação em que dá para confiar.
 
-Hoje sou desenvolvedor backend na 4Pay Finance e especialista Salesforce em projetos de consultoria na área da saúde. Já passei pela Compass UOL, como estagiário de IA na AWS, pelo PET-Saúde da UFBA, pela WM Saúde e pela Sirtec. Estudo Sistemas de Informação no IFBA e organizo eventos no GruPy.
+Hoje sou desenvolvedor backend na 4Pay Finance. Já passei por 6 meses de consultoria Salesforce para Unimed Serra Gaúcha e Rede D'Or, pela Compass UOL, como estagiário de IA na AWS, pelo PET-Saúde da UFBA, pela WM Saúde e pela Sirtec. Estudo Sistemas de Informação no IFBA e organizo eventos no GruPy.
 
 Trabalho com spec-driven development e AI-DLC: especificação com critério de aceite antes do código, agentes de IA na implementação com validação humana e avaliação medida antes de publicar.
 
