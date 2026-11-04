@@ -1,42 +1,40 @@
-## Olá! Eu sou o Ricardo Augusto :)
+## Ricardo Augusto
 
-Sou um Desenvolvedor de Software com experiência em desenvolvimento full stack e back-end. Minha paixão é construir soluções escaláveis e eficientes, aplicando minha expertise em **AWS, Docker e Inteligência Artificial**. 
+Desenvolvedor backend e de IA em Vitória da Conquista, Bahia. Construo sistemas que recebem dado do mundo real, como nota fiscal, prontuário e registro de catraca, e devolvem informação em que dá para confiar.
 
-- 🔭 Atualmente, estou trabalhando com **Node.js, TypeScript e AWS**.
-- ⚡ Aprofundando conhecimentos em Inteligência Artificial, ReactJS e explorando o mundo DevOps.
-- 😄 Pronouns: ele/dele
+Hoje sou desenvolvedor backend na 4Pay Finance e especialista Salesforce em projetos de consultoria na área da saúde. Já passei pela Compass UOL, como estagiário de IA na AWS, pelo PET-Saúde da UFBA, pela WM Saúde e pela Sirtec. Estudo Sistemas de Informação no IFBA e organizo eventos no GruPy.
 
-<div align="center">
-  <a href="https://github.com/ricardo-rals">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardo-rals&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-rals&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Trabalho com spec-driven development e AI-DLC: especificação com critério de aceite antes do código, agentes de IA na implementação com validação humana e avaliação medida antes de publicar.
 
-<h3 align="center">Tecnologias que utilizo:</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rals-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rals-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rals-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rals-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rals-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rals-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rals-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rals-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Rals-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Rals-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rals-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rals-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-</div>
+**Portfólio:** [ricardo-rals.github.io](https://ricardo-rals.github.io)
 
-### O que eu busco?
-Busco empresas com **tecnologias inovadoras** onde eu possa me desafiar, aplicar minha expertise em **cloud computing, processamento de dados e integração de APIs**, e continuamente aprender e aperfeiçoar minhas habilidades, especialmente em Python. 
+### Projetos em destaque
 
-### Um pouco sobre mim
-Quando não estou codificando, gosto de praticar esportes como **corrida, CrossFit e academia**. Também me interesso por estudar sobre **comportamento**, ler sobre diversos assuntos, jogar **jogos eletrônicos** com amigos e sair para **barzinhos**.
+| Projeto | O que faz | Stack |
+| --- | --- | --- |
+| [Cupom Fiscal](https://github.com/ricardo-rals/cupom-fiscal) | Controle de compras pelo QR Code da nota fiscal, com itens normalizados por LLM e perguntas em linguagem natural | NestJS, Next.js, Python, PostgreSQL |
+| [Analytica Lab Engine](https://github.com/ricardo-rals/analitica-lab-engine) | Calculadora de laboratório analítico que mostra cada etapa do cálculo. [Usar no navegador](https://ricardo-rals.github.io/analitica-lab-engine/) | Python, Streamlit, Pyodide |
+| [Plataforma de Saúde Pública](https://github.com/ricardo-rals/projeto-unificado) | Painéis epidemiológicos e predição de risco sobre o e-SUS PEC | FastAPI, React, scikit-learn |
+| [Sistema CAC](https://github.com/ricardo-rals/controle_catraca) | Análise dos dados das catracas do IFBA, feita com um time de 8 pessoas | Django, HTMX, Docker |
+| [Failover transparente](https://github.com/ricardo-rals/failover-transparency) | Download que continua em outra réplica quando a primeira cai | Go |
 
-### Conecte-se comigo!
-<div>
-  <a href="https://www.instagram.com/rals.ricardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ricardo.rals.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-ralds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+### Stack
+
+- **Principais:** Python, Node.js, JavaScript, AWS e LLMs
+- **Backend:** TypeScript, NestJS, Express, FastAPI, Django
+- **Dados:** PostgreSQL, Prisma, SQLAlchemy, pandas, scikit-learn
+- **IA:** LLMs com saída estruturada, avaliação de modelos, agentes de SQL, LangChain
+- **Nuvem e DevOps:** AWS Lambda, Docker, Terraform, GitHub Actions
+- **CRM:** Salesforce e Agentforce
+
+### Ensino
+
+Dou minicursos e aulas para quem está começando: [Python para Excel](https://ricardo-rals.github.io/minicurso-python-excel/), [IA simbólica com Python](https://github.com/ricardo-rals/minicurso-ia-simbolica) e [introdução à IA generativa](https://github.com/ricardo-rals/plano-de-aula-ia) para crianças e adolescentes.
+
+### Fora do código
+
+Corrida, CrossFit e academia, jogos com os amigos e um bom barzinho.
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/ricardo-ralds/) · [E-mail](mailto:ricardo.rals.dev@gmail.com) · [Instagram](https://www.instagram.com/rals.ricardo/)
