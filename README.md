@@ -2,7 +2,7 @@
 
 Desenvolvedor backend e de IA em Vitória da Conquista, Bahia. Construo sistemas que recebem dado do mundo real, como nota fiscal, prontuário e registro de catraca, e devolvem informação em que dá para confiar.
 
-Hoje sou desenvolvedor backend na 4Pay Finance. Já passei por 6 meses de consultoria Salesforce para Unimed Serra Gaúcha e Rede D'Or, pela Compass UOL, como estagiário de IA na AWS, pelo PET-Saúde da UFBA, pela WM Saúde e pela Sirtec. Estudo Sistemas de Informação no IFBA e organizo eventos no GruPy.
+Hoje sou desenvolvedor backend na 4Pay Finance. Já passei por 6 meses de consultoria Salesforce para Unimed Serra Gaúcha e Rede D'Or, pela Compass UOL, como estagiário de IA na AWS, pelo PET-Saúde da UFBA, pela WM Saúde e pela Sirtec. Estou cursando a pós-graduação em Engenharia de IA Aplicada, concluo Sistemas de Informação no IFBA em 2027 e organizo eventos no GruPy.
 
 Trabalho com spec-driven development e AI-DLC: especificação com critério de aceite antes do código, agentes de IA na implementação com validação humana e avaliação medida antes de publicar.
 
@@ -13,6 +13,7 @@ Trabalho com spec-driven development e AI-DLC: especificação com critério de 
 | Projeto | O que faz | Stack |
 | --- | --- | --- |
 | [Cupom Fiscal](https://github.com/ricardo-rals/cupom-fiscal) | Controle de compras pelo QR Code da nota fiscal, com itens normalizados por LLM e perguntas em linguagem natural | NestJS, Next.js, Python, PostgreSQL |
+| [Notas Telegram](https://github.com/ricardo-rals/notas-telegram) | Transforma um grupo privado do Telegram num caderno pesquisável, feito com Spec Kit e 194 testes | Python, FastAPI, HTMX, PostgreSQL |
 | [Analytica Lab Engine](https://github.com/ricardo-rals/analitica-lab-engine) | Calculadora de laboratório analítico que mostra cada etapa do cálculo. [Usar no navegador](https://ricardo-rals.github.io/analitica-lab-engine/) | Python, Streamlit, Pyodide |
 | [Plataforma de Saúde Pública](https://github.com/ricardo-rals/projeto-unificado) | Painéis epidemiológicos e predição de risco sobre o e-SUS PEC | FastAPI, React, scikit-learn |
 | [Sistema CAC](https://github.com/ricardo-rals/controle_catraca) | Análise dos dados das catracas do IFBA, feita com um time de 8 pessoas | Django, HTMX, Docker |
